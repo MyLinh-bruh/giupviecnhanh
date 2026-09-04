@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+    Options -Multiviews
+    RewriteEngine On
+    RewriteBase /GiupViecNhanh/public/
+
+    # 1. Kiểm tra: Nếu không phải là tên file thực (như style.css)
+    RewriteCond %{REQUEST_FILENAME} !-f
+    # 2. Kiểm tra: Nếu không phải là tên thư mục thực
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # 3. Thì chuyển tất cả vào index.php?url=...
+    RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+</IfModule>
