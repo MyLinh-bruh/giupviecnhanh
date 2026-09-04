@@ -15,7 +15,6 @@ Dự án Website ứng dụng mô hình MVC tự xây dựng (Custom MVC) bằng
 * **Xác thực người dùng:** Hệ thống đăng nhập/đăng ký với bảo mật Session.
 
 ## 📸 Ảnh chụp màn hình
-*(Chèn link ảnh hoặc kéo thả ảnh trang chủ / trang nhân viên của bạn vào đây)*
 <img width="2878" height="1350" alt="trangchu" src="https://github.com/user-attachments/assets/1e4a4a41-b452-4d05-8398-282cc6d59503" />
 <img width="2878" height="1352" alt="trangchu1" src="https://github.com/user-attachments/assets/6ca8ca49-8e3e-413b-b9da-744c2eabc2a0" />
 <img width="2876" height="1352" alt="trangchu2" src="https://github.com/user-attachments/assets/251fdc07-f088-4965-9472-ed93834cedd1" />
