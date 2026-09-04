@@ -16,6 +16,11 @@ Dự án Website ứng dụng mô hình MVC tự xây dựng (Custom MVC) bằng
 
 ## 📸 Ảnh chụp màn hình
 *(Chèn link ảnh hoặc kéo thả ảnh trang chủ / trang nhân viên của bạn vào đây)*
+<img width="2878" height="1350" alt="trangchu" src="https://github.com/user-attachments/assets/1e4a4a41-b452-4d05-8398-282cc6d59503" />
+<img width="2878" height="1352" alt="trangchu1" src="https://github.com/user-attachments/assets/6ca8ca49-8e3e-413b-b9da-744c2eabc2a0" />
+<img width="2876" height="1352" alt="trangchu2" src="https://github.com/user-attachments/assets/251fdc07-f088-4965-9472-ed93834cedd1" />
+<img width="2880" height="1352" alt="nhanvien" src="https://github.com/user-attachments/assets/35178424-101a-46a4-9af5-401823276d23" />
+<img width="2880" height="1348" alt="datlich" src="https://github.com/user-attachments/assets/175e9e28-50b2-40a0-a2c9-d293150cbd4f" />
 
 ## 🛠️ Hướng dẫn cài đặt
 1. Clone dự án về thư mục `htdocs` của XAMPP:
